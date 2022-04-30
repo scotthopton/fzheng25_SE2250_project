@@ -1,5 +1,3 @@
-https://docs.google.com/document/d/1pcTOkclq8iPEs3v6WjctZnGqFy0TI984/edit?usp=sharing&ouid=112684504643445748373&rtpof=true&sd=true
-
 REFERENCES:
 
 Dragon Warrior Files - Retrieved from: https://assetstore.unity.com/packages/2d/characters/dragon-warrior-free-93896
